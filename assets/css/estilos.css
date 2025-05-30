@@ -21,8 +21,10 @@ body {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
-}
+  background-position: center; 
+  color: black;
+} 
+
 
 /* Contacto */
 
@@ -45,7 +47,4 @@ body {
   background-color:  rgb(13, 202, 390) ;
 }
 
-.logo{ 
-  margin: 0%;
-  padding: 0%;
-}
+
